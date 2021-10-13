@@ -12,9 +12,6 @@
 
   [License](#License)
 
-  
-
-
 ## Usage
 To get started the user will type node index.js into their terminal. Then the user will be rpmpted with several questions about their project as well as apoints of contact like their email and github username. After the finish answering the questions a readme.md file will be generated with all their answers.
 
