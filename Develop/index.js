@@ -24,7 +24,7 @@ const questions = [
     name: "usageDescription",
     message: "Describe how to use your project.",
   },
-  
+
   {
     type: "input",
     name: "contributionGuidelines",

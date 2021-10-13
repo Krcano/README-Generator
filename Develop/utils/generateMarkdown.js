@@ -29,8 +29,8 @@ function renderLicenseSection(license) {
     return `[License: MIT](${renderLicenseLink(license)})`;
   } else if (license === "APACHE 2.0") {
     return `[License: APACHE 2.0](${renderLicenseLink(license)})`;
-  }else{
-    return ""
+  } else {
+    return "";
   }
 }
 
@@ -66,7 +66,9 @@ ${data.usageDescription}
 ## License
   ${renderLicenseSection(data.license)}
 ## Questions
-  If you have any questions regarding my project you can contact me at my email: ${data.email} or visit my github at https://github.com/${data.githubUserName}
+  If you have any questions regarding my project you can contact me at my email: ${
+    data.email
+  } or visit my github at https://github.com/${data.githubUserName}
 `;
 }
 
