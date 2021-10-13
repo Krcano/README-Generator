@@ -1,6 +1,6 @@
 # hi
 
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  
   
   ## Description
   hi
@@ -32,7 +32,6 @@ hi
   hi
 
 ## License
-  APACHE 2.0
-  [License: APACHE 2.0](https://opensource.org/licenses/Apache-2.0)
+  
 ## Questions
-  If you have anuy questions regarding my project you can contact me at hi or visit my github at https://github.com/hi
+  If you have any questions regarding my project you can contact me at my email: hi or visit my github at https://github.com/hi
