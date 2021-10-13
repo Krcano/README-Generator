@@ -16,14 +16,15 @@ const questions = [
   },
   {
     type: "input",
-    name: "usageDescription",
-    message: "Describe how to use your project.",
-  },
-  {
-    type: "input",
     name: "installation",
     message: "Describe how to install your project.",
   },
+  {
+    type: "input",
+    name: "usageDescription",
+    message: "Describe how to use your project.",
+  },
+  
   {
     type: "input",
     name: "contributionGuidelines",
