@@ -14,11 +14,11 @@
 
   [License](#License)
 
-## Usage
-To get started the user will type node index.js into their terminal. Then the user will be rpmpted with several questions about their project as well as apoints of contact like their email and github username. After the finish answering the questions a readme.md file will be generated with all their answers.
-
 ## Installation
   To install the project the user must have Node.js and the Develop folder with this code base downloaded on their computer and then go to the correct file where the project is located. After they will go to their integrated terminal to start the inquirer prompts
+
+## Usage
+To get started is the user will type node index.js into their terminal. Then the user will be prompted with several questions about their project like a descrition, points of contact like their email and github username, and more. After the finish answering the questions a readme.md file will be generated with all their answers.
 
 ## License
   [License: MIT](https://opensource.org/licenses/MIT)
