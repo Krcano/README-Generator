@@ -5,10 +5,11 @@
   ## Description
   My Project is a uses Node.js to create an easy-to-use template for a high-quality readme.md file. It asks for the user's project information using inquirer prompts and takes the information provided to create the readme. Through this project I have become more comfortable with the process of grabbing data from one function and using it another to accomplish a purpose. It also taught me about module exports and how information from one file can be exported to a different file.
 
-  [Link to Video Description](https://watch.screencastify.com/v/TtkkOWzm7yyvEgb6rISM)
+  [Link to Video Description](https://drive.google.com/file/d/1EbVUvCJvXXvXgl_Q7Vn4GLrSujlzmxN8/view)
 
 ## Table of Contents
   [Usage](#usage)
+
 
   [Installation](#installation)
 
