@@ -3,7 +3,7 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)
   
   ## Description
-  My Project is a uses Node.js to create an easy-to-use template for a high-quality readme.md file. It asks for the user's project information using inquirer prompts and takes the information provided to create the readme. Through this project I have become more comfortable with the process of grabbing data from one function and using it another to accomplish a purpose. It also taught me about module exports and how information from one file can be exported to a different file.
+  My Project uses Node.js to create an easy-to-use template for a high-quality readme.md file. It asks for the user's project information using inquirer prompts and takes the information provided to create the readme. Through this project I have become more comfortable with the process of grabbing data from one function and using it another to accomplish a purpose. It also taught me about module exports and how information from one file can be exported to a different file.
 
   [Link to Video Description](https://drive.google.com/file/d/1EbVUvCJvXXvXgl_Q7Vn4GLrSujlzmxN8/view)
 
@@ -19,7 +19,15 @@
   To install the project the user must have Node.js and the Develop folder with this code base downloaded on their computer and then go to the correct file where the project is located. After they will go to their integrated terminal to start the inquirer prompts
 
 ## Usage
-To get started is the user will type node index.js into their terminal. Then the user will be prompted with several questions about their project like a descrition, points of contact like their email and github username, and more. After the finish answering the questions a readme.md file will be generated with all their answers.
+To get started is the user will type ```node index.js``` into their terminal. Then the user will be prompted with several questions about their project like a descrition, points of contact like their email and github username, and more. After the finish answering the questions a readme.md file will be generated with all their answers.
+
+## Technologies
+| Technologies Used | 
+| ------------------| 
+| JavaScript        |
+|Inquirer.js        | 
+| HTML              | 
+| CSS               |
 
 ## License
   [License: MIT](https://opensource.org/licenses/MIT)
